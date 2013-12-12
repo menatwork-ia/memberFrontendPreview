@@ -32,7 +32,7 @@
 	},
 	"autoload":{
 		"classmap":["system/"]
-	}
+	},
 	"extra":{
 		"contao":{
 			"sources":{
